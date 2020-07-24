@@ -1,0 +1,4 @@
+## Ignore client app's generated files
+dist
+node_modules
+.idea

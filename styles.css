@@ -1,0 +1,38 @@
+button {
+    width:100px;
+
+}
+#myCanvas {
+    margin: 10px;
+}
+#generation {
+    width:100px
+}
+.container {
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#text {
+    width:200px;
+}
+.large-btn {
+    width: 175px;
+}
+#debugJson {
+    height:400px;
+    overflow-y: scroll;
+}
+
+.templates {
+    display:flex
+}
+.template {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:5px;
+
+}
